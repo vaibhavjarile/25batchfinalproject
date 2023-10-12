@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-08T15:43:51 IST" name="Default suite" finished-at="2023-10-08T15:45:31 IST" duration-ms="100037">
+  <suite started-at="2023-10-12T14:47:12 IST" name="Default suite" finished-at="2023-10-12T14:48:07 IST" duration-ms="55561">
     <groups>
     </groups>
-    <test started-at="2023-10-08T15:43:51 IST" name="Default test" finished-at="2023-10-08T15:45:31 IST" duration-ms="100037">
-      <class name="testcases.VerifySignupPage">
-        <test-method signature="signuppage()[pri:0, instance:testcases.VerifySignupPage@128d2484]" started-at="2023-10-08T15:43:51 IST" name="signuppage" finished-at="2023-10-08T15:45:31 IST" duration-ms="99950" status="PASS">
+    <test started-at="2023-10-12T14:47:12 IST" name="Default test" finished-at="2023-10-12T14:48:07 IST" duration-ms="55561">
+      <class name="testcases.AddToCartProduct">
+        <test-method signature="addtocart()[pri:0, instance:testcases.AddToCartProduct@128d2484]" started-at="2023-10-12T14:47:12 IST" name="addtocart" finished-at="2023-10-12T14:48:07 IST" duration-ms="55462" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- signuppage -->
-      </class> <!-- testcases.VerifySignupPage -->
+        </test-method> <!-- addtocart -->
+      </class> <!-- testcases.AddToCartProduct -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
